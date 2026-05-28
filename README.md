@@ -8,4 +8,4 @@ Hello all! This is a landing page for all the coding projects (hobby-level and p
 - [Kerbel Space Program Launch Scripting](https://github.com/bekahaadams314/ksp-python-launch-automation)
 
 ## Future Work
-These are all a work in progress especially as I investigate new and personal questions, but please let me know if you have any questions or concerns
+These are all works in progress, but uploaded to make sure all the information is stored in one area. I aim to investigate new and personal questions for each project, and you may see new datasets or scripts. But please let me know if you have any questions or concerns! Feel free to check back for updates, too (work will be slower as I wrap up my dissertation)
