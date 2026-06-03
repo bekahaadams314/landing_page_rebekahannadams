@@ -7,9 +7,9 @@ Hello all! Here is a collection of projects that focus on exploring applications
 *Focus on time-series forecasting and data pipelines for complex, noisy systems.*
 *   **Select Project:** [Air Quality](https://github.com/bekahaadams314/air_quality_analysis_and_prediction) & [Temporal Respiratory Illness Dynamics](https://github.com/bekahaadams314/respiratory_illness_analysis)
 
-### **Computational Optimization & Control Systems:**
+### **Automation & Control Systems:**
 *Solving multi-dimensional constrained optimization problems and real-time feedback loops.*
-*   **Select Project:** [Flight and Orbital Autonomation (KSP)](https://github.com/bekahaadams314/ksp-python-launch-automation) 
+*   **Select Project:** [Flight and Orbital Automation (KSP)](https://github.com/bekahaadams314/ksp-python-launch-automation) 
 
 <!-- ### **Automation & System Reliability Simulation:**
 *Stochastic modeling of asset degradation, degradation functions, and digital twins.*
