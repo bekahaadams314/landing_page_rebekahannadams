@@ -1,11 +1,20 @@
 # Landing Page for Rebekah Adams
-Hello all! This is a landing page for all the coding projects (hobby-level and professional-level)
+Hello all! Here is a collection of projects that focus on exploring applications of stochastic mathematics, optimization, and data analytics.For transparency, the datasets are acquired using Data.gov or Kaggle. 
 
-## List of current projects
-- [Water Quality Analysis](https://github.com/bekahaadams314/water_quality_analysis)
-* [Air Quality Analysis and Prediction](https://github.com/bekahaadams314/air_quality_analysis_and_prediction)
-+ [Respiratory Illnesses Analysis and Prediction](https://github.com/bekahaadams314/respiratory_illness_analysis)
-- [Kerbel Space Program Launch Scripting](https://github.com/bekahaadams314/ksp-python-launch-automation)
+## **Here are the categories:**
 
-## Future Work
-These are all works in progress, but uploaded to make sure all the information is stored in one area. I aim to investigate new and personal questions for each project, and you may see new datasets or scripts. But please let me know if you have any questions or concerns! Feel free to check back for updates, too (work will be slower as I wrap up my dissertation)
+### **Predictive Modeling & Statistical Analysis:**
+*Focus on time-series forecasting and data pipelines for complex, noisy systems.*
+*   **Select Project:** [Air Quality] (https://github.com/bekahaadams314/air_quality_analysis_and_prediction) & [Temporal Respiratory Illness Dynamics](https://github.com/bekahaadams314/respiratory_illness_analysis)
+
+### **Computational Optimization & Control Systems:**
+*Solving multi-dimensional constrained optimization problems and real-time feedback loops.*
+*   **Select Project:** [Flight and Orbital Autonomation (KSP)](https://github.com/bekahaadams314/ksp-python-launch-automation)
+
+### **Prognostics & System Reliability Simulation:**
+*Stochastic modeling of asset degradation, degradation functions, and digital twins.*
+*   **Select Project:** Electrochemical System Degradation & Predictive Maintenance Module
+
+### **Techno-Economic & Capital Risk Analysis:**
+*Evaluating portfolio decision-making and capital allocation under extreme market uncertainty.*
+*   **Select Project:** Stochastic Portfolio Valuation & Pharma R&D Drug Pipelines
