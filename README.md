@@ -1,4 +1,5 @@
-# Landing Page for Rebekah Adams
+# Rebekah Adams, Ph.D. Student in Mechanical Engineering (CMU)
+## Computational and Quantitative Modeling Portfolio
 Hello all! Here is a collection of projects that focus on exploring applications of stochastic mathematics, optimization, and data analytics.For transparency, the datasets are acquired using Data.gov or Kaggle. 
 
 ## **Here are the categories:**
