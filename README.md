@@ -20,3 +20,6 @@ Hello all! Here is a collection of projects that focus on exploring applications
 *Evaluating portfolio decision-making and capital allocation under extreme market uncertainty.*
 *   **Select Project:** [Stochastic Portfolio Valuation & Pharma R&D Drug Pipelines](https://github.com/bekahaadams314/drug_pipeline_probability_of_success)
 *   **Future Project:** Techno-economics analysis and Thermo-economic analysis of Proton Exchange Membrane Water Electrolyzers (PEMWE)
+
+<!-- ### **Creative Coding Projects:**
+*Miscellaneous fun projects and scratchpad explorations* -->
