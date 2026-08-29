@@ -17,7 +17,7 @@ Hello all! Here is a collection of projects exploring applications of stochastic
 *Stochastic modeling of asset degradation, degradation functions, and digital twins.*
 *   **Select Project:** Electrochemical System Degradation & Predictive Maintenance Module -->
 
-### **Quant Risk & Decision Analysis:**
+### **Quant Risk & Decision Analytics:**
 *Evaluating portfolio decision-making and capital allocation under extreme market uncertainty.*
 *   **Select Project 1:** [Drug Pipeline Portfolio Risk & NPV Simulation. ](https://github.com/bekahaadams314/drug_pipeline_probability_of_success)
 *   **Select Project 2:** [Techno-economic Risk Modeling of Proton Exchange Membrane Water Electrolyzers (PEMWE)](https://github.com/bekahaadams314/thermo-economic-analysis-pemwe)  
