@@ -1,6 +1,6 @@
 # Rebekah Adams, Ph.D. Student in Mechanical Engineering (CMU)
 ## Computational and Quantitative Modeling Portfolio
-Hello all! Here is a collection of projects that focus on exploring applications of stochastic mathematics, optimization, and data analytics.For transparency, the datasets are acquired using Data.gov or Kaggle. 
+Hello all! Here is a collection of projects exploring applications of stochastic mathematics, optimization, and data analytics. For transparency, I acquired the datasets from Data.gov or Kaggle. 
 
 ## **Here are the categories:**
 
@@ -20,8 +20,8 @@ Hello all! Here is a collection of projects that focus on exploring applications
 ### **Quant Risk & Decision Analysis:**
 *Evaluating portfolio decision-making and capital allocation under extreme market uncertainty.*
 *   **Select Project 1:** [Drug Pipeline Portfolio Risk & NPV Simulation. ](https://github.com/bekahaadams314/drug_pipeline_probability_of_success)
-*   **Select Project 2:** [Techno-economic Risk Modeling of Proton Exchange Membrane Water Electrolyzers (PEMWE)](https://github.com/bekahaadams314/thermo-economic-analysis-pemwe)  Techno-economic and Thermo-economic analysis of Proton Exchange Membrane Water Electrolyzers (PEMWE)
-*  **Select Project 2:** [Operational Supply Chain Tail-Risk Simulation for Pharma Manufacturing](https://github.com/bekahaadams314/supply_chain_cvar_simulaton_for_pharma_manufacturing)  Aimed to model manufacturing disruption risks across pharmaceutical supply networks related to my separate interest in drug delivery and manufacturing.
+*   **Select Project 2:** [Techno-economic Risk Modeling of Proton Exchange Membrane Water Electrolyzers (PEMWE)](https://github.com/bekahaadams314/thermo-economic-analysis-pemwe)  
+*  **Select Project 2:** [Operational Supply Chain Tail-Risk Simulation for Pharma Manufacturing](https://github.com/bekahaadams314/supply_chain_cvar_simulaton_for_pharma_manufacturing)  
 
 <!-- ### **Creative Coding Projects:**
 *Miscellaneous fun projects and scratchpad explorations* -->
