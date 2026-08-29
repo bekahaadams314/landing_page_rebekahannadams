@@ -17,10 +17,11 @@ Hello all! Here is a collection of projects that focus on exploring applications
 *Stochastic modeling of asset degradation, degradation functions, and digital twins.*
 *   **Select Project:** Electrochemical System Degradation & Predictive Maintenance Module -->
 
-### **Techno-Economics & Decision Analysis:**
+### **Quant Risk & Decision Analysis:**
 *Evaluating portfolio decision-making and capital allocation under extreme market uncertainty.*
-*   **Select Project 1:** [Stochastic Portfolio Valuation & Pharma R&D Drug Pipelines](https://github.com/bekahaadams314/drug_pipeline_probability_of_success)
-*   **Select Project 2:** [Techno-economic Risk Modeling of Proton Exchange Membrane Water Electrolyzers (PEMWE)](https://github.com/bekahaadams314/thermo-economic-analysis-pemwe)  Techno-economics analysis and Thermo-economic analysis of Proton Exchange Membrane Water Electrolyzers (PEMWE)
+*   **Select Project 1:** [Drug Pipeline Portfolio Risk & NPV Simulation. ](https://github.com/bekahaadams314/drug_pipeline_probability_of_success)
+*   **Select Project 2:** [Techno-economic Risk Modeling of Proton Exchange Membrane Water Electrolyzers (PEMWE)](https://github.com/bekahaadams314/thermo-economic-analysis-pemwe)  Techno-economic and Thermo-economic analysis of Proton Exchange Membrane Water Electrolyzers (PEMWE)
+*  **Select Project 2:** [Operational Supply Chain Tail-Risk Simulation for Pharma Manufacturing](https://github.com/bekahaadams314/supply_chain_cvar_simulaton_for_pharma_manufacturing)  Aimed to model manufacturing disruption risks across pharmaceutical supply networks related to my separate interest in drug delivery and manufacturing.
 
 <!-- ### **Creative Coding Projects:**
 *Miscellaneous fun projects and scratchpad explorations* -->
