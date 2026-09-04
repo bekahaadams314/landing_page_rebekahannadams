@@ -19,9 +19,10 @@ Hello all! Here is a collection of projects exploring applications of stochastic
 
 ### **Quant Risk & Decision Analytics:**
 *Evaluating portfolio decision-making and capital allocation under extreme market uncertainty.*
-*   **Select Project 1:** [Drug Pipeline Portfolio Risk & NPV Simulation. ](https://github.com/bekahaadams314/drug_pipeline_probability_of_success)
-*   **Select Project 2:** [Techno-economic Risk Modeling of Proton Exchange Membrane Water Electrolyzers (PEMWE)](https://github.com/bekahaadams314/thermo-economic-analysis-pemwe)  
-*  **Select Project 2:** [Operational Supply Chain Tail-Risk Simulation for Pharma Manufacturing](https://github.com/bekahaadams314/supply_chain_cvar_simulaton_for_pharma_manufacturing)  
+*   **Project 1:** [Drug Pipeline Portfolio Risk & NPV Simulation. ](https://github.com/bekahaadams314/drug_pipeline_probability_of_success)
+*   **Project 2:** [Techno-economic Risk Modeling of Proton Exchange Membrane Water Electrolyzers (PEMWE)](https://github.com/bekahaadams314/thermo-economic-analysis-pemwe)  
+*  **Project 3:** [Operational Supply Chain Tail-Risk Simulation for Pharma Manufacturing](https://github.com/bekahaadams314/supply_chain_cvar_simulaton_for_pharma_manufacturing)
+*   **Project 4:** [Market Risk Portfolio Engine & Optimizer](https://github.com/bekahaadams314/Market-Risk-Portfolio-Engine)   
 
 <!-- ### **Creative Coding Projects:**
 *Miscellaneous fun projects and scratchpad explorations* -->
