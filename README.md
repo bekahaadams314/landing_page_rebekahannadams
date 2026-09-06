@@ -11,7 +11,8 @@ Hello all! Here is a collection of projects exploring applications of stochastic
 
 ### **Modeling, Simulation, and Control Systems:**
 *Solving optimization problems and real-time feedback loops.*
-*   **Select Project:** [Flight and Orbital Automation (KSP)](https://github.com/bekahaadams314/ksp-python-launch-automation) 
+*   **Select Project 1:** [Flight and Orbital Automation (KSP)](https://github.com/bekahaadams314/ksp-python-launch-automation)
+*   **Select Project 2:** [PID Controller for Continuous Stirring Tank Reactor (CSTR)](https://github.com/bekahaadams314/CSTR-PID-controller) 
 
 <!-- ### **Automation & System Reliability Simulation:**
 *Stochastic modeling of asset degradation, degradation functions, and digital twins.*
