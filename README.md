@@ -1,5 +1,4 @@
-# Rebekah Adams, Ph.D. Student in Mechanical Engineering (CMU)
-## Computational and Quantitative Modeling Portfolio
+# Computational and Quantitative Modeling Portfolio
 Hello all! Here is a collection of projects exploring applications of stochastic mathematics, optimization, and data analytics. For transparency, I acquired the datasets from Data.gov or Kaggle. 
 
 ## **Here are the categories:**
